@@ -52,6 +52,7 @@
 
             </div>
         </nav>
+        <?php dynamic_sidebar('sidebar-1'); ?>
     </header>
     <div class="main-wrapper">
         <header class="page-title theme-bg-light text-center gradient py-5">
